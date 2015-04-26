@@ -12,11 +12,11 @@ You should create one R script called run_analysis.R that does the following.
 ## Working instructions
 
 * Set you working directory where you prefer
-* Copy the 'run_analysis.R' script file in the working directory
-* launch the script with source("run_analysis.R")
+* Copy the __'run_analysis.R'__ script file in the working directory
+* launch the script with __source("run_analysis.R")__
 * the raw data file will be downloaded from the repository into the working directory
 * the downloaded file will be unzipped in a subfolder named 'UCI HAR Dataset'
-* the output file named 'tidyData.txt' will be created in the working directory
+* the output file named __'tidyData.txt'__ will be created in the working directory
 
 ## Dependencies
 * utils
