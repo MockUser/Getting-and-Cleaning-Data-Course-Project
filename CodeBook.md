@@ -49,7 +49,7 @@ The following files are available for the train and test data. Their description
 ## Preparation operations
 * Raw data is downloaded from the repository in the working folder
 * The obtained zip file is unzipped in the 'UCI HAR Dataset' folder
-* The needed files are loaded in R data.tables
+* The needed files are loaded in R variables
 
 ## Data trasformation
 
