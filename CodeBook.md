@@ -62,7 +62,7 @@ The R script operates the following trasformations on the raw data:
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
 ## Output operations
-* A text file called (__'tidyData.txt'__) containing the tidy data set obtained by the last trasformation operation is created in the working directory
+* A text file called __'tidyData.txt'__ containing the tidy data set obtained by the last trasformation operation is created in the working directory
 
 ## License
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
