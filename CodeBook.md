@@ -3,10 +3,10 @@
 ## Raw data
 The raw data is the output of the "Human Activity Recognition Using Smartphones Dataset" experiment and can be downloaded from UCI Machine Learning repository.
 
-## Downloadable data:
+### Data repository:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
-## Description of the dataset:
+### Description of the dataset:
 <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
 
 ## Data Set Information:

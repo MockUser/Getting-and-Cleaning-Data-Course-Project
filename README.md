@@ -19,8 +19,8 @@ You should create one R script called run_analysis.R that does the following.
 * the output file named 'tidyData.txt' will be created in the working directory
 
 ## Dependencies
-utils
-plyar
-data.tables
+* utils
+* plyar
+* data.tables
 
 
